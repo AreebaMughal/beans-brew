@@ -13,7 +13,7 @@
       <h1 style="margin: 0; font-size: 1.8rem;">Beans&Brew</h1>
     </div>
     <nav class="nav-links">
-      <a href="homepage.php" style="text-decoration: none; font-size: larger; color: black; padding: 10px;">Home</a>
+      <a href="index.php" style="text-decoration: none; font-size: larger; color: black; padding: 10px;">Home</a>
       <a href="menu.php" style="text-decoration: none; font-size: larger; color: black; padding: 10px;">Menu</a>
       <a href="contact.php" style="text-decoration: none; font-size: larger; color: black; padding: 10px;">Contact Us</a>
       <a href="admin.php" style="text-decoration: none; font-size: larger; color: black; padding: 10px;">Admin</a>
